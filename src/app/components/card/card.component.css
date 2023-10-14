@@ -1,0 +1,29 @@
+.cards {
+display: flex;
+flex-direction: row;
+padding-top: 100px;
+justify-content: space-between;
+
+
+}
+.img-card{
+  max-height: 200px;
+padding: 0;
+border-radius: 10px;
+display: flex;
+ overflow: hidden;
+}
+.card{
+
+  position: relative;
+ padding: 20px;
+
+ }
+ h5{
+
+    text-align: center;
+
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+ }
